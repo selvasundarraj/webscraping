@@ -1,0 +1,293 @@
+{
+  "cookies": [
+    {
+      "name": "Network-Type",
+      "value": "4g",
+      "domain": ".flipkart.com",
+      "path": "/account",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "T",
+      "value": "TI171397746669600112981358670527119044270738246360977087455815238300",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1745513490.08854,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "K-ACTION",
+      "value": "null",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1745513490.08909,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demdex",
+      "value": "53454550085145924181406397066611244350",
+      "domain": ".demdex.net",
+      "path": "/",
+      "expires": 1729529467.54418,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCVS_17EB401053DAF4840A490D4C%40AdobeOrg",
+      "value": "1",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pxcts",
+      "value": "d89fd6a5-025a-11ef-840e-9d98be35c43d",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_pxvid",
+      "value": "d89fcbda-025a-11ef-840d-beac1f8aa9b2",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1745513467,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vd",
+      "value": "VIDDC2E6AA66AF4FE0813A96E2A56B5B15-1713977467747-1.1713977467.1713977467.157763523",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1729529467.731258,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "AMCV_17EB401053DAF4840A490D4C%40AdobeOrg",
+      "value": "-227196251%7CMCIDTS%7C19838%7CMCMID%7C53433717656629816121408819519340310128%7CMCAAMLH-1714582267%7C12%7CMCAAMB-1714582267%7C6G1ynYcLPuiQxYZrsz_pkqfLG9yMXBpb2zX5dvJdYQJzPXImdj0y%7CMCOPTOUT-1713984667s%7CNONE%7CMCAID%7CNONE",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1748537467.758008,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_px3",
+      "value": "933b42edd04fd2fe53e971ccd75715c6190c3333a2ab0ee309f515938d5fa3cd:TK8T3Zi17cLM0mj4R1dG/bh906/CBmp9dTpJBT5uryGOr+awY83J//lAH8K6XDjXGmdQ3hJFchQIiEKTtxP/Ig==:1000:ogvdqBHj5NG2Zd2aFuwhXpJuW3aQTLGkH0I8wPYFv/0+KiR+6/nrBfFfCJnBesK0ivW97Y/X6YDtY1bII24O85WWdv87GmwJJ8Sw+VHfkbc4iI0G5czEZWmZzd1NpJd6LOEnFYQi3SAcY9scVBCGMMWEv4jFYX7nLA8C8yDv6YzZpRZ1fRy36dJnBqjbepdAZOvZpsFxg5DBmqgDJMKyvkKy2LPwk7eoh78ZzG6vlnc=",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1713977798,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ULSN",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJjb29raWUiLCJhdWQiOiJmbGlwa2FydCIsImlzcyI6ImF1dGguZmxpcGthcnQuY29tIiwiY2xhaW1zIjp7ImdlbiI6IjEiLCJ1bmlxdWVJZCI6IlVVSTI0MDQyNDIyMjEyOTU5N0tXTEU4OEoiLCJma0RldiI6bnVsbH0sImV4cCI6MTcyOTc1NzQ4OSwiaWF0IjoxNzEzOTc3NDg5LCJqdGkiOiI2MGQ3MDRjMi1iODMyLTQxNTItYjBkZi05ZjBmNDc5MzJjM2UifQ.Tz6fSiVkkHRJ0uK14cq1kVeRKW9Lc-15xq9RwA74YLo",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1729529489.644681,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "at",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3MTM5NzkyODksImlhdCI6MTcxMzk3NzQ4OSwiaXNzIjoia2V2bGFyIiwianRpIjoiYzVkZjEzM2EtMGNlMi00ZjNlLTk1NzctOGQzMmFmNmFlYTIxIiwidHlwZSI6IkFUIiwiZElkIjoiVEkxNzEzOTc3NDY2Njk2MDAxMTI5ODEzNTg2NzA1MjcxMTkwNDQyNzA3MzgyNDYzNjA5NzcwODc0NTU4MTUyMzgzMDAiLCJiSWQiOiIzVE1WQk8iLCJrZXZJZCI6IlZJRERDMkU2QUE2NkFGNEZFMDgxM0E5NkUyQTU2QjVCMTUiLCJ0SWQiOiJtYXBpIiwiZWFJZCI6IjlCLXE0UENJcVlrTWFoZ3lpTGpVNndtb2Fmd0EwLWRzYjctd2NBYjJXa21TS0RHR0JaRzFwZz09IiwidnMiOiJMSSIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6NH0.6ys4PjYFmTFfG5-B5fVa7W0yrL-O-JedWcUu4cGqV00",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1745513490.088876,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rt",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjNhNzdlZTgxLTRjNWYtNGU5Ni04ZmRlLWM3YWMyYjVlOTA1NSJ9.eyJleHAiOjE3Mjk3ODg2ODksImlhdCI6MTcxMzk3NzQ4OSwiaXNzIjoia2V2bGFyIiwianRpIjoiMzhmZGQ3NTYtODg1YS00OTNjLWE3NDUtODUwY2ViMzUwZDQ2IiwidHlwZSI6IlJUIiwiZElkIjoiVEkxNzEzOTc3NDY2Njk2MDAxMTI5ODEzNTg2NzA1MjcxMTkwNDQyNzA3MzgyNDYzNjA5NzcwODc0NTU4MTUyMzgzMDAiLCJiSWQiOiIzVE1WQk8iLCJrZXZJZCI6IlZJRERDMkU2QUE2NkFGNEZFMDgxM0E5NkUyQTU2QjVCMTUiLCJ0SWQiOiJtYXBpIiwibSI6eyJ0eXBlIjoibiJ9LCJ2IjoiQlVPVFJLIn0.Ikmbd1_fBMN1x3ptEAaMczcMYMQuOBIhOgqNO1EHhGc",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1745513490.088985,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ud",
+      "value": "6.vlZgohnaUd0_DVPJq-kjaqeuc6RFJeXx-nDLXrBlhpSZGvVUSz1l9PZqUsey8ZRycrIK9WebfLb4dQzOirCR5esJEySeHymyqNljSpOAvuAkwfsalrAU1b7OHYo69v2J0UpRoIm5xm7gxpCvLHVMrrZmaMMha6U_swx5chr7JAQcE-0hb4ClZVVhcI8zg-pt",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1729529489.644936,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "S",
+      "value": "d1t16Pz8/PxZgMmg/Pz8/Pz8/P1sWRmaKiYvMzznl/2MpC2SGhQmDAiGFZglpmafHpbPvt7H9uA3C4S6Hf3bElF8NAA==",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1729529489.644997,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "SN",
+      "value": "VIDDC2E6AA66AF4FE0813A96E2A56B5B15.TOK09381429324848B88157C8A48879CBED.1713977489.LI",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1745513490.088781,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vh",
+      "value": "720",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1745513490.207778,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "vw",
+      "value": "1280",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1745513490.207865,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "dpr",
+      "value": "1",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1745513490.207952,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "fonts-loaded",
+      "value": "en_loaded",
+      "domain": "www.flipkart.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Network-Type",
+      "value": "4g",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "isH2EnabledBandwidth",
+      "value": "true",
+      "domain": "www.flipkart.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "h2NetworkBandwidth",
+      "value": "9",
+      "domain": "www.flipkart.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gpv_pn",
+      "value": "HomePage",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1713979290,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "gpv_pn_t",
+      "value": "FLIPKART%3AHomePage",
+      "domain": ".flipkart.com",
+      "path": "/",
+      "expires": 1713979290,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.flipkart.com",
+      "localStorage": [
+        {
+          "name": "PXgNtTli3A_px-ff",
+          "value": "eyJjYyI6eyJ0dGwiOjE3MTM5Nzc1MjgsInZhbCI6IlUyRnRaVk5wZEdVOVRHRjRPdz09In0sImZwIjp7InR0bCI6MTcxMzk3NzUyOCwidmFsIjoiMSJ9LCJkZHRjIjp7InR0bCI6MTcxMzk3NzUyOCwidmFsIjoiMSJ9fQ=="
+        },
+        {
+          "name": "PXgNtTli3A_PX11925",
+          "value": "1"
+        },
+        {
+          "name": "PXgNtTli3A_px_fp",
+          "value": "eyJQWDEyNDkyIjoiYzUwNWMxMGUyNmExYjdhNzc0MTQzN2RiOWY4MjkxNmIiLCJQWDEyNTcwIjoiNjg0Zjg2MDAzZTkyNzI3YzhhNTY4N2YyOTA4YzNlNzkiLCJQWDExMzUyIjoiNmMwMDQ5ZmQ2MTBiOTcwNTI2YWNhOWQxMzBmNmE1NmIiLCJQWDEyMjkyIjoiV2ViS2l0IiwiUFgxMTgxMSI6W10sIlBYMTE1NjciOiJXZWJLaXQgV2ViR0wiLCJQWDEyMDMyIjoiV2ViR0wgMS4wIChPcGVuR0wgRVMgMi4wIENocm9taXVtKSIsIlBYMTE1MzYiOlsiQU5HTEVfaW5zdGFuY2VkX2FycmF5cyIsIkVYVF9ibGVuZF9taW5tYXgiLCJFWFRfY2xpcF9jb250cm9sIiwiRVhUX2NvbG9yX2J1ZmZlcl9oYWxmX2Zsb2F0IiwiRVhUX2RlcHRoX2NsYW1wIiwiRVhUX2Rpc2pvaW50X3RpbWVyX3F1ZXJ5IiwiRVhUX2Zsb2F0X2JsZW5kIiwiRVhUX2ZyYWdfZGVwdGgiLCJFWFRfcG9seWdvbl9vZmZzZXRfY2xhbXAiLCJFWFRfc2hhZGVyX3RleHR1cmVfbG9kIiwiRVhUX3RleHR1cmVfY29tcHJlc3Npb25fYnB0YyIsIkVYVF90ZXh0dXJlX2NvbXByZXNzaW9uX3JndGMiLCJFWFRfdGV4dHVyZV9maWx0ZXJfYW5pc290cm9waWMiLCJFWFRfdGV4dHVyZV9taXJyb3JfY2xhbXBfdG9fZWRnZSIsIkVYVF9zUkdCIiwiS0hSX3BhcmFsbGVsX3NoYWRlcl9jb21waWxlIiwiT0VTX2VsZW1lbnRfaW5kZXhfdWludCIsIk9FU19mYm9fcmVuZGVyX21pcG1hcCIsIk9FU19zdGFuZGFyZF9kZXJpdmF0aXZlcyIsIk9FU190ZXh0dXJlX2Zsb2F0IiwiT0VTX3RleHR1cmVfZmxvYXRfbGluZWFyIiwiT0VTX3RleHR1cmVfaGFsZl9mbG9hdCIsIk9FU190ZXh0dXJlX2hhbGZfZmxvYXRfbGluZWFyIiwiT0VTX3ZlcnRleF9hcnJheV9vYmplY3QiLCJXRUJHTF9ibGVuZF9mdW5jX2V4dGVuZGVkIiwiV0VCR0xfY29sb3JfYnVmZmVyX2Zsb2F0IiwiV0VCR0xfY29tcHJlc3NlZF90ZXh0dXJlX2FzdGMiLCJXRUJHTF9jb21wcmVzc2VkX3RleHR1cmVfZXRjIiwiV0VCR0xfY29tcHJlc3NlZF90ZXh0dXJlX2V0YzEiLCJXRUJHTF9jb21wcmVzc2VkX3RleHR1cmVfcHZydGMiLCJXRUJHTF9jb21wcmVzc2VkX3RleHR1cmVfczN0YyIsIldFQkdMX2NvbXByZXNzZWRfdGV4dHVyZV9zM3RjX3NyZ2IiLCJXRUJHTF9kZWJ1Z19yZW5kZXJlcl9pbmZvIiwiV0VCR0xfZGVidWdfc2hhZGVycyIsIldFQkdMX2RlcHRoX3RleHR1cmUiLCJXRUJHTF9kcmF3X2J1ZmZlcnMiLCJXRUJHTF9sb3NlX2NvbnRleHQiLCJXRUJHTF9tdWx0aV9kcmF3IiwiV0VCR0xfcG9seWdvbl9tb2RlIl0sIlBYMTIxNDkiOlsiWzEsIDFdIiwiWzEsIDUxMV0iLDgsInllcyIsOCwyNCw4LDE2LDMyLDE2Mzg0LDEwMjQsMTYzODQsMTYsMTYzODQsMzAsMTYsMTYsMTAyNCwiWzE2Mzg0LCAxNjM4NF0iLCJub19mcCIsMjMsMTI3LDEyNywyMywxMjcsMTI3LDIzLDEyNywxMjcsMjMsMTI3LDEyNywyMywxMjcsMTI3LDIzLDEyNywxMjcsMjMsMTI3LDEyNywyMywxMjcsMTI3LDIzLDEyNywxMjcsMjMsMTI3LDEyNywyMywxMjcsMTI3LDIzLDEyNywxMjddLCJQWDEyMzUyIjoiR29vZ2xlIEluYy4gKEFwcGxlKSIsIlBYMTE0NTUiOiJBTkdMRSAoQXBwbGUsIEFOR0xFIE1ldGFsIFJlbmRlcmVyOiBBcHBsZSBNMSwgVW5zcGVjaWZpZWQgVmVyc2lvbikiLCJQWDExNTM0IjoiV2ViR0wgR0xTTCBFUyAxLjAgKE9wZW5HTCBFUyBHTFNMIEVTIDEuMCBDaHJvbWl1bSkiLCJQWDEyNTAzIjoiMjY5YmY2ZjU0Yzk3ZjRkNWFlYmFhNGExMmVlYmVhZGIiLCJQWDEyNTAyIjoiOWI2ZThhYTI0YzljODkxYzBhYzEyYjM1ZWVjNjRiNmEiLCJQWDExOTI3IjoiMTNhZDc3YmRiNWE3YzI3MGU5YjkwMmE2ZDY5M2U2ZDMiLCJQWDEyNTcyIjoiNWYzZGUyYzQzN2RiZWRkMTA2MjdiOTNhYmJkYWUxMDEiLCJQWDExNDc3IjoiMTI2Ljg2OTY5MzkyODI0NTQiLCJQWDEyMTA5IjoiYjkwODU2N2U5M2Q5ZWQyNGMwMzZkYTc5ODYzNDllOTciLCJQWDEyMzYyIjoiMDkwYzk3NDkzMzliN2U5OGIzMTc3ZDRiZjcxYjc1ZTUiLCJQWDEyMzU0IjoiOWFlM2Y5MDhkNzkzNDJlZjYwN2UzOWU2NmY3YWMyMGMiLCJQWDEyNDkxIjoiNzUyM2JmNmU1ZGNhZGNmZmRhZTZiMzA2MzgyN2UzNDUiLCJQWDEyNjIyIjoiMDE2YmViMTdkZDU3YTZlNDQ2YjM2MjY1Mjg0YzBjOWMiLCJQWDEyMTMwIjpbIl9fcGVyZiIsIl9fTE9BREFCTEVfTE9BREVEX0NIVU5LU19fIl0sIlBYMTEzODYiOlsid2ViZHJpdmVyIl0sIlBYMTI1MjUiOiI5OTcwZWNmMGJiZTQ4MWI1NDNiNzA4OTRjODhmZDNhZSIsIlBYMTI1MjYiOiIzMzRmNWQxOTkwMTk4NTNiZTIyYmE5MGFkYmJmMjQzZCIsIlBYMTE5NDgiOjEsIlBYMTE2ODUiOjgsIlBYMTE5ODYiOnRydWUsIlBYMTIyOTkiOnRydWUsIlBYMTIzMzEiOmZhbHNlLCJQWDExMzE2IjpmYWxzZSwiUFgxMTQ0OCI6dHJ1ZSwiUFgxMjE5NiI6Im1pc3NpbmciLCJQWDEyNDI3IjpbIl9fcGVyZiIsIl9weEFwcElkIiwiX19MT0FEQUJMRV9MT0FERURfQ0hVTktTX18iLCJfZ050VGxpM0FoYW5kbGVyIl0sIlBYMTE4NDIiOltdLCJQWDEyNDM5IjpbIlBERiBWaWV3ZXI6OlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdDo6YXBwbGljYXRpb24vcGRmfnBkZjo6dGV4dC9wZGZ+cGRmIiwiQ2hyb21lIFBERiBWaWV3ZXI6OlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdDo6YXBwbGljYXRpb24vcGRmfnBkZjo6dGV4dC9wZGZ+cGRmIiwiQ2hyb21pdW0gUERGIFZpZXdlcjo6UG9ydGFibGUgRG9jdW1lbnQgRm9ybWF0OjphcHBsaWNhdGlvbi9wZGZ+cGRmOjp0ZXh0L3BkZn5wZGYiLCJNaWNyb3NvZnQgRWRnZSBQREYgVmlld2VyOjpQb3J0YWJsZSBEb2N1bWVudCBGb3JtYXQ6OmFwcGxpY2F0aW9uL3BkZn5wZGY6OnRleHQvcGRmfnBkZiIsIldlYktpdCBidWlsdC1pbiBQREY6OlBvcnRhYmxlIERvY3VtZW50IEZvcm1hdDo6YXBwbGljYXRpb24vcGRmfnBkZjo6dGV4dC9wZGZ+cGRmIl0sIlBYMTE5OTMiOiIxNzEzOTc3NDY3NjY2IiwiUFgxMjIyOCI6IlR5cGVFcnJvcjogQ2Fubm90IHJlYWQgcHJvcGVydGllcyBvZiBudWxsIChyZWFkaW5nICcwJykgYXQgdHIgKGh0dHBzOi8vc3RhdGljLWFzc2V0cy13ZWIuZmxpeGNhcnQuY29tL3B4L2dOdFRsaTNBL2luaXQuanM6MjoyMDUxNSkgYXQgZnVuYyAoaHR0cHM6Ly9zdGF0aWMtYXNzZXRzLXdlYi5mbGl4Y2FydC5jb20vcHgvZ050VGxpM0EvaW5pdC5qczoyOjEzOTIzOSkgYXQgRnQgKGh0dHBzOi8vc3RhdGljLWFzc2V0cy13ZWIuZmxpeGNhcnQuY29tL3B4L2dOdFRsaTNBL2luaXQuanM6MjoxNDI1NikgYXQgaHR0cHM6Ly9zdGF0aWMtYXNzZXRzLXdlYi5mbGl4Y2FydC5jb20vcHgvZ050VGxpM0EvaW5pdC5qczoyOjE0MTQ4NCBhdCBucldyYXBwZXIgKGh0dHBzOi8vd3d3LmZsaXBrYXJ0LmNvbS9hY2NvdW50L2xvZ2luOjE3OjE0Mzg0KSIsIlBYMTIyODgiOnRydWUsIlBYMTI0NDYiOjMzLCJQWDEyMjM2IjoiZmQ3MTQ5YmJmYjMxNjY5OWVmOTE4ZmE3YmI3NTEwYTgiLCJQWDExMzA5IjoiZDQxZDhjZDk4ZjAwYjIwNGU5ODAwOTk4ZWNmODQyN2UiLCJQWDExNTUxIjoiZmQ3MTQ5YmJmYjMxNjY5OWVmOTE4ZmE3YmI3NTEwYTgiLCJQWDEyNTg2IjoyLCJQWDExODQzIjoxMjgwLCJQWDExNzgxIjo3MjAsIlBYMTIxMjEiOjEyODAsIlBYMTIzODciOiIxMjgwWDcyMCIsIlBYMTEzODAiOjMwLCJQWDEyMDAzIjozMCwiUFgxMjEyOCI6NzIwLCJQWDExODQ5IjoiMTAyMDdiMmYiLCJQWDExNTgzIjoiZW4tR0IiLCJQWDEyNDU4IjoiTWFjSW50ZWwiLCJQWDExNzU0IjoiU29tZSBPdmVycmlkZW4gVXNlciBBZ2VudCIsIlBYMTE2ODEiOlsiZW4tR0IiLCJlbi1VUyIsImVuIl0sIlBYMTIwMzciOnRydWUsIlBYMTE2MjEiOjgsIlBYMTEzOTAiOi0zMzAsIlBYMTE2NzgiOmZhbHNlLCJQWDExODQwIjoiV2VkIEFwciAyNCAyMDI0IDIyOjIxOjA3IEdNVCswNTMwIChJbmRpYSBTdGFuZGFyZCBUaW1lKSIsIlBYMTE1NDAiOnRydWUsIlBYMTE1MzkiOiI2NDU1NmM3NyIsIlBYMTE1NTUiOjQyOTQ3MDUxNTIsIlBYMTE0NTIiOiI3YzVmOTcyNCIsIlBYMTI1MjciOiJhMzAxZmQxZTJhYzY3YTEyZmE0NWZkZGViNzZlNDg1MSIsIlBYMTI0ODYiOm51bGx9"
+        },
+        {
+          "name": "PXgNtTli3A_px_hvd",
+          "value": "baea1433f29f3cfd0467bb2ac372233f"
+        },
+        {
+          "name": "isLoggedIn",
+          "value": "true"
+        },
+        {
+          "name": "lastBTCallTime",
+          "value": "\"1713977468125\""
+        },
+        {
+          "name": "lastHeartbeatSentTime",
+          "value": "\"1713977467625\""
+        },
+        {
+          "name": "NRBA_SESSION",
+          "value": "{\"value\":\"840b69eff14d9014\",\"inactiveAt\":1713979289526,\"expiresAt\":1713991868020,\"updatedAt\":1713977490101,\"sessionReplay\":0,\"sessionTraceMode\":0,\"custom\":{}}"
+        }
+      ]
+    }
+  ]
+}
